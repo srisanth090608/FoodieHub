@@ -1,0 +1,6 @@
+foodiehub.db
+*.db
+_pycache_/
+*.pyc
+venv/
+.env
